@@ -10,7 +10,5 @@ public class PredicateTest2 {
         ArrayList l=new ArrayList<>();
         l.add(10);
         System.out.println(p.test(l));
-
-
     }
 }
